@@ -1,12 +1,10 @@
 [
     {
-    "name": "Smooth Playbar",
-    "description": "Smooth displacement for themes with long track progress bars.",
-    "main": "smooth-playbar.js",
-    "readme": "readme.md",
-    "authors": [
-        { "name": "cAttte", "url": "https://github.com/cAttte" }
-    ],
-    "tags": ["playbar"]
-  }
+        "name": "Smooth Playbar",
+        "description": "Smooth displacement for themes with long track progress bars.",
+        "main": "smooth-playbar.js",
+        "readme": "readme.md",
+        "authors": [{ "name": "cAttte", "url": "https://github.com/cAttte" }],
+        "tags": ["playbar"]
+    }
 ]
